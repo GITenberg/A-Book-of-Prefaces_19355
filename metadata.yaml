@@ -1,0 +1,60 @@
+_repo: A-Book-of-Prefaces_19355
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mencken, H. L. (Henry Louis)
+    aliases:
+    - Hatteras, Owen
+    - Mencken, Henry Louis
+    - Mencken, Henry L.
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '578'
+    url: http://www.gutenberg.org/2009/agents/578
+    wikipedia: http://en.wikipedia.org/wiki/H._L._Mencken
+description: "For the book by Alasdair Gray see The Book of Prefaces\nA Book of Prefaces\
+  \ is H. L. Mencken's 1917 collection of essays criticizing American culture, authors,\
+  \ and movements. Mencken described the work as \"[My] most important book in its\
+  \ effects upon my professional career.\" In fact, the book was considered vitriolic\
+  \ enough that Mencken's close friend Alfred Knopf was concerned about publishing\
+  \ it because of the massive increase in patriotism during World War I in America.\n\
+  The book was short, a brief eighty pages divided into four essays. The four subjects\
+  \ included Theodore Dreiser, Joseph Conrad and James Gibbons Huneker.\nBut perhaps\
+  \ the most important, and certainly the most outspoken essay was entitled \"Puritanism\
+  \ as a Literary Force,\" during which he alleged that William Dean Howells, Henry\
+  \ James, and Mark Twain were victims of the Puritan spirit.\n\"The Puritan's utter\
+  \ lack of aesthetic sense, his distrust of all romantic emotion, his unmatchable\
+  \ intolerance of opposition, his unbreakable belief in his own bleak and narrow\
+  \ views, his savage cruelty of attack, his lust for relentless and barbarous persecution\
+  \ – these things have put an almost unbearable burden up on the exchange of ideas\
+  \ in the United States.\"\nMencken had criticized Puritanism for many years, famously\
+  \ characterizing it as \"the haunting fear that someone, somewhere, may be happy,\"\
+  \ but through World War I his criticism became increasingly outspoken, in part due\
+  \ to the rising tide of Prohibition.\nMencken's book triggered the imagination of\
+  \ a famous American author. As a teen first entering the world of reading and books\
+  \ in the early 1920s, Richard Wright found literary inspiration in A Book of Prefaces.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19355'
+  wikidata: Q4655574
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Conrad, Joseph, 1857-1924 -- Criticism and interpretation'
+- !lcsh 'Huneker, James, 1857-1921 -- Criticism and interpretation'
+- !lcsh 'American literature -- History and criticism'
+- !lcsh 'Dreiser, Theodore, 1871-1945 -- Criticism and interpretation'
+tableOfContents: Joseph Conrad -- Theodore Dreiser -- James Huneker -- Puritanism
+  as a literary force.
+title: A Book of Prefaces
+url: http://www.gutenberg.org/ebooks/19355
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Book_of_Prefaces
