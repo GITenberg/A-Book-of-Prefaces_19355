@@ -37,6 +37,8 @@ description: "For the book by Alasdair Gray see The Book of Prefaces\nA Book of 
   \ a famous American author. As a teen first entering the world of reading and books\
   \ in the early 1920s, Richard Wright found literary inspiration in A Book of Prefaces.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19355#A-Book-of-Prefaces
 gutenberg_issued: '2006-09-22'
 gutenberg_type: Text
 identifiers:
